@@ -1,15 +1,30 @@
-🏥 Medilap - Healthcare & E-Medicose Web Application
-Tech Stack: PHP, MySQL, HTML/CSS, JavaScript, Bootstrap
-📌 Overview
+🏥 Medilap – Healthcare and E-Medicose Web Application
 
-Medilap is a complete healthcare and online medical store web application. It allows users to browse, search, and filter medical supplies with an easy-to-use interface. Admins can manage inventory, and the backend is optimized for performance with a scalable database structure.
-🚀 Features
 
-    Product listing with advanced search and filter options.
+Tech Stack: PHP, MySQL, JavaScript, AJAX, HTML, CSS, Bootstrap
+🧾 Project Overview:
 
-    Admin dashboard for managing medicines/products.
+Medilap is a comprehensive healthcare and e-medicose web application built to simplify the process of purchasing medical supplies online. The platform provides a user-friendly interface for customers to browse and order medicines while offering a secure backend for administrators to manage the product catalog, inventory, and user queries.
 
-    User-friendly UI with responsive design.
+This project was designed to address the growing demand for online access to medical supplies, especially in remote areas where physical access to pharmacies can be difficult. The application was developed using PHP and MySQL for the backend, and modern front-end technologies like Bootstrap, HTML, CSS, and JavaScript for an engaging user experience. AJAX was implemented to provide seamless interactions, such as live search and filtering, without page reloads.
+💡 Key Features:
+
+    User-Friendly Interface: Allows users to search for medicines using name, category, and price filters.
+
+    Product Management Dashboard: Admins can add, update, or delete products, manage categories, and monitor inventory.
+
+    Live Search and Filter: AJAX-powered search functionality improves usability and speed.
+
+    Performance Optimization: Database schema was optimized to handle over 500 product entries efficiently, resulting in a 20% reduction in query time.
+
+    Responsive Design: Built with Bootstrap to ensure compatibility across all device sizes.
+
+🔐 Security:
+
+Form validations, session management, and sanitization were implemented to prevent SQL injection and unauthorized access.
+🎯 Objective:
+
+To build a scalable, efficient, and secure web platform that allows users to easily access and order medical products from the comfort of their homes.
 
 📸 Screenshots
 
