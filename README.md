@@ -30,6 +30,8 @@ To build a scalable, efficient, and secure web platform that allows users to eas
 
     (Upload screenshots in assets/ folder and link here)
 
+    Coming ...
+
 🛠️ Installation & Setup
     # Clone the repository
     git clone https://github.com/your-username/medilap.git
